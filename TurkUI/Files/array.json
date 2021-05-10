@@ -1,0 +1,175 @@
+{
+    "TurkMutfagi": "Türk Mutfağı",
+    "Description": "Türk mutfağından 25 çeşit yiyecek",
+    "Yiyecekler": [{
+        "Tarif": "\nTarif\n - Öncelikle nohut ve fasulyeyi ayrı ayrı haşlayın.\n - Buğdayı yıkayıp, tencereye alın üzerine kaynar su ekleyip 10dk kaynatın. \n - Çıkan sarı suyu süzün. Aynı işlemi bir kez daha yapın ve suyunu süzün. \n - Daha sonra üzerine 3 litre kadar kaynar su ekleyip 50dk kadar buğdayı kaynatın.\n - Yumuşayan buğdaya pişmiş nohut, fasulye, küçük doğranmış kayısı, kuru üzüm, yıkanmış pirinç 15dk kadar kaynatın.\n - Sıcak süt, şeker, tuz, karabiber, fındık, karanfil suyu ekleyerek 15dk daha kaynatın.\n - Arada gerektikçe sıcak su eklemeyi ihmal etmeyin.\n - Tek tek cam kâselere bölüştürün.\n - Aşure kâselerde soğumaya yüz tutunca, üzerini fındık, ceviz, fıstık, kuş üzümü, kuru üzüm ve nar taneleri ile süsleyebilirsiniz.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 313 kcal\n - Karbonhidrat: 55.64 gr \n - Protein: 7.13 gr \n - Yağ: 5.05 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 1 yemek kaşığı tarçın\n - 1 adet nar\n - 15 adet ceviz\n - 1 su bardağı fındık\n - 1 bardak süt\n - 3.5 su bardağı şeker\n - 2 adet rendelenmiş portakal kabuğu\n - 4 çorba kaşığı kuş üzümü\n - 15 adet kuru incir\n - 2 fincan kuru kayısı\n - 1 su bardağı nohut\n - 1 su bardağı kuru fasulye\n - 2 su bardağı aşurelik buğday\n",
+        "Sure": "60 dk",
+        "Kisi": "20 kişilik",
+        "Seviye": "Orta"
+        
+    },{
+        "Tarif": "\nTarif\n - Baklava şerbeti için tencerenin içerisine şeker ve suyu ekleyip hafif koyulaşana kadar kaynat ve ocaktan almadan hemen önce 1-2 damla limon suyu damlatıp soğumaya bırak.\n - Hamuru için; Yoğurma kabının içerisine hamur malzemelerini ekle. Yumuşak bir hamur olması için unu yavaş yavaş ekle.\n - Hamuru yoğurduktan sonra küçük bezeler yap, orta boy tepsi için 24 beze yeterlidir.\n - Hamuru açmak için mısır nişastasını ve unu karıştır yapmış olduğun bezelerden tepsi büyüklüğünde yufkalar aç.\n - Açtığın yufkaların arasına istersen iki kerede istersen tek kerede ceviz serp.\n - Yufka açma işlemi bittikten sonra baklava dilimi olarak yada küçük kareler olarak kes.\n - Tavada sıvı yağı ve tereyağı kısık ateşte 7-8 dakika ocakta erit.\n - İyice ısınan sıvı yağı baklavanın üzerine gezdir.\n - 200 derecelik fırında yaklaşık 20-25 dakika kızarana kadar pişir.\n - Pişen baklavayı 5 dakika dinlendirdikten sonra soğuyan şerbeti üzerine dök.\n - Baklava servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 288 kcal\n - Karbonhidrat: 39.49 gr \n - Protein: 3.26 gr \n - Yağ: 11.96 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 2 adet yumurta\n - 0.5 su bardağı süt\n - 2 çorba kaşığı yoğurt\n - 1 gram bitkisel sıvı yağ çeşidi\n - 1 tatlı kaşığı üzüm sirkesi\n - 0.5 çay kaşığı tuz\n - 0.5 paket kabartma tozu\n - 500 gram un karışımı\n - 1 su bardağı buğday nişastası\n - 500 gram çekilmiş ceviz\n - 1 çorba kaşığı tereyağ\n - 3.5 su bardağı şeker\n - 4.5 su bardağı su \n - 1 yemek kaşığı limon suyu\n",
+        "Sure": "25 dk",
+        "Kisi": "20 kişilik",
+        "Seviye": "Zor"
+    },{
+        "Tarif": "\nTarif\n - Etli biber dolması için; biberleri yıka.\n - Saplarını kes.\n - Biberlerin üst kısmını tamamen kesmeden kapak olacak şekilde kes.\n - Tohumlarını çıkart.\n - İçini hazırlamak için; domatesleri, soğanları rendele, maydanozları ve pirinçleri yıka, maydanozları ince ince kıy.\n - Soğan ve domates rendesini bir kaba koy.\n - Kıymayı ve ayıklayıp yıkadığın pirinçleri de kaba ilave edip iyice karıştır.\n - Hazırladığın için dolmalık biberlere doldur ve tencereye diz.\n - Suyu, yağı ve tuzu bir kapta karıştır ve dizdiğin dolmaların üzerine gezdirerek dök.\n - Kısık ataşte pirinçler şişene kadar pişir.\n - Etli biber dolma servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 95 kcal\n - Karbonhidrat: 6.18 gr \n - Protein: 5.61 gr \n - Yağ: 5.13 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 10 adet yeşil dolamlık biber\n - 350 gram dana kıyma \n - 3 çorba kaşığı beyaz pirinç\n - 2 adet kuru soğan\n - 3 adet domates\n - 2 çorba kaşığı zeytinyağı\n - 1 su bardağı su \n - 1 demet maydanoz\n - 2 tatlı kaşığı tuz\n",
+        "Sure": "30 dk",
+        "Kisi": "5 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Peynirli börek için; yufkaları ıslatacağınız yağ  ve yoğurt karışımını çırpın.\n - Yağlanmış tepsiye bir yufkayı bütün olarak ve kenarları dışarıda kalıcak şekilde yerleştirin.\n - İkinci yufkayı ikiye bölün ve karışımın içerisine batırarak, tepsinin yarısına yerleştirin.\n - Aynı şekilde, diğer yarısını da karışıma batırıp, tepsinin kalan kısmına yerleştirin.\n - Araya peynirli harcı yayın.\n - Üzerine üçüncü yufkayı da ikiye bölüp, ıslatarak yerleştirin.\n - En üstü ise, tepsinin yanlarından sarkan yufka ile kapatın.\n - Kalan karışımın hepsini böreğin üzerine boşaltın.\n - 180 derece fırında, üzeri kızarana kadar pişirin.\n - Peynirli börek servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 259 kcal\n - Karbonhidrat: 33.48 gr \n - Protein: 10.11 gr \n - Yağ: 9.14 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 4 adet yufka ekmeği\n - 0.5 su bardağı bitkisel sıvı yağ çeşidi\n - 3 adet yumurta\n - 250 gram lor peyniri\n - 0.5 su baradğı yoğurt\n - 1 demet maydanoz\n - 1 çay kaşığı karabiber\n",
+        "Sure": "40 dk",
+        "Kisi": "9 kişilik",
+        "Seviye": "Kolay"
+    },{
+        "Tarif": "\nTarif\n - Bulguru bir kaba alın ve üzerine sıcak su dökerek suyunu çekip şişene kadar bekletin.\n - Rendelenmiş soğanı bir tülbentin üzerine alın fazla suyu sıkın.\n - Mutfak robotunuzun içerisine tüm çiğ köfte malzemelerini koyun ve azar azar çekmeye başlayın. Arada bir açıp spatulayla yapışan malzemeleri içe doğru iterek daha hızlı çalışmasına yardımcı olun.\n - Tüm malzemeler güzelce harmanladığından harcı bir kabın içerisine aktarın. Çiğ köfte harcınızdan elinizle ceviz büyüklüğünde parçalar koparıp şekillendirin.\n - Ardından yeşilliklerle servis edin.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 216 kcal\n - Karbonhidrat: 37.65 gr \n - Protein: 12.95 gr \n - Yağ: 2.36 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 2.5 su bardağı ince bulgur\n - 1.5 su bardağı sıcak su\n - 1 çay bardağı isot\n - 1 çay bardağı zeytinyağı\n - 3 yemek kaşığı acı toz kırmızı biber\n - 1 yemek kaşığı domates salçası\n - 2 yemek kaşığı biber salçası\n - 4 yemek kaşığı nar ekşisi\n - 1 çay kaşığı tuz\n - 1 adet rendelenmiş soğan\n - 1 adet limon suyu\n",
+        "Sure": "-",
+        "Kisi": "8 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Bir tavada yarım su bardağı zeytinyağı ile 1 adet küp doğranmış soğanı hafif pembeleşinceye kadar kavurun.\n - Üzerine küp doğranmış ve haşlanmış, 1'er adet patates ve havucu da ekleyip 2-3 dakika bu şekilde kavurun.\n - 1 su bardağı bezelyeyi de üzerine ekledikten 3-4 dakika sonra garnitürünüzü ocaktan alın.\n - Enginarları pişireceğiniz sosu hazırlamak için bir kapta 2 adet sıkılmış limon suyu, 1 su bardağı su,  1 tatlı kaşığı toz şeker, 1 çay kaşığı tuz ve 2 yemek zeytinyağını karıştırın.\n - Geniş bir tencereye 8 adet enginarı yerleştirin ve üzerlerine hazırladığınız garnitürden koyun.\n - Limonlu su karışımını da tencereye aktarın.\n - Enginarı sofralarınızda soğuk olarak servis edin, afiyet olsun.\n - Ardından kapağını kapatıp, enginarlar yumuşayana kadar pişirin.\n\n Afiyet olsun.\n ",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 53 kcal\n - Karbonhidrat: 11.95 gr \n - Protein: 2.89 gr \n - Yağ: 0.34 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 1/2 yarım su bardağı zeytinyağı\n - 1 adet orta boy kuru soğan\n - 1 adet patates\n - 1 adet büyük boy havuç\n - 1 su bardağı dondurulmuş bezelye\n - 8 adet ayıklanmış enginar\n - 2 adet taze sıkılmış limon suyu\n - 1 su bardağı su\n - 1 tatlı kaşığı toz şeker\n - 1 çay kaşığı tuz\n",
+        "Sure": "60 dk",
+        "Kisi": "8 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Soğanları yemeklik doğrayın, doğranmış sarımsaklarla kuşbaşı doğranmış koyun etini birlikte tencereye koyarak biraz sote edin.\n - Biberleri sap ve çekirdeklerini çıkarıp doğrayın, tencereye atın, salçayı ekleyerek pişirmeye devam edin.\n - 45-50 dakika kısık ateşte kendi suyu ile pişirin.\n - En son, kabuğu soyularak küp şeklinde doğranmış domatesleri de ilave edip biraz daha pişirin.\n - Etler yumuşayınca, ince kıyılmış maydanozu, tuz ve karabiberi koyup karıştırın.\n - Soteyi ateşten alın, sıcak olarak servis yapın.\n\n Afiyet olsun.\n ",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 107 kcal\n - Karbonhidrat: 3.15 gr \n - Protein: 7.6 gr \n - Yağ: 7.04 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 500 gr koyun/dana eti\n - 1 çorba kaşığı acı biber salçası\n - 2 adet kuru soğan\n - 5 diş sarımsak\n - 7 adet yeşil sivri biber\n - 3 adet domates\n - 0.5 demet maydonaz\n - 1 bıçak ucu tuz\n - 1 bıçak ucu karabiber\n",
+        "Sure": "45 dk",
+        "Kisi": "6 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Yufkalardan birini mutfak tezgahına ser.\n - Daha sonra harcı hazırla. Harcı hazırlamak için; bir kabın içine peyniri koy ve çatal ile ez.\n - Üzerine ince kıyılmış maydanozu ve tuzu koyup iyice karıştır.\n - Tezgaha serdiğin yufkanın bir kenarından 20 santimlik parçayı yukarıya doğru katla.\n - Katladığın yere lor peynirli karışımın dörtte birini koy.\n - Yufkanın önce yan kenarlarını, sonra üst parçasını kapatıp dörtgen bir şekil elde et.\n - Diğer yufkalara da harçla aynı işlemi uygula.\n - Kalın tabanlı geniş bir çelik tavaya yağı koyup ateşte ısıt.\n - Yağ ısındıktan sonra hazırladığın yufkayı koy orta ateşte, ön ve arka yüzü pembeleşene kadar pişir.\n - Gözleme servise hazırdır.\n\n Afiyet olsun.\n ",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 269 kcal\n - Karbonhidrat: 46.1 gr \n - Protein: 10.35 gr \n - Yağ: 6.83 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 1 çay kaşığı tuz\n - 2 çorba kaşığı ayçiçek yağı\n - 0.5 demet maydanoz\n - 200 gr beyaz peynir\n - 4 adet yufka\n",
+        "Sure": "10 dk",
+        "Kisi": "4 kişilik",
+        "Seviye": "Kolay"
+    },{
+        "Tarif": "\nTarif\n - Balıkların içini ve dışını temizleyip bol su ile yıka.\n - Geniş bir tepsiye unu döküp balıkları bu tepside her yerine un gelecek şekilde unla.\n - Bir tavaya yağı koyup balıkların kuyrukları ortaya baş kısımları tavanın kenarına doğru gelecek şekilde diz.\n - Ocağın altını yakıp kızart.\n - Bir tarafı piştikten sonra, geniş ve düz bir tabak yardımıyla balıkları çevirip öteki tarafını da kızart.\n - İki tarafı da kızardıktan sonra aynı şekilde geniş ve düz bir tabağı tavanın ağzına yerleştirip balıkları tabağa aktar.\n - Hamsi kızartma servise hazırdır.\n\n Afiyet olsun.\n ",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 179 kcal\n - Karbonhidrat: 4.83 gr \n - Protein: 19.69 gr \n - Yağ: 9.58 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 1 tatlı kaşığı tuz\n - 1 çay bardağı ayçiçek yağı\n - 0.5 su bardağı mısır unu\n - 1 kilogram hamsi\n",
+        "Sure": "15 dk",
+        "Kisi": "3 kişilik",
+        "Seviye": "Kolay"
+    },{
+        "Tarif": "\nTarif\n - Patlıcanları alimünyum folyoya sarıp ocağın üzerinde közleyin.\n - Közlendikten sonra soyup ezin.\n - Un ve tereyağını kavurun.\n Sütü azar azar ilave edin ve tuzu ekleyin.\n - Sosu ezilmiş patlıcanlarla karıştırın.\n - Tüm karışımı çukur bir tabağa alın.\n - Etleri tavaya koyun ve suyunu çekene kadar az sıvıyağ ile pişirin.\n - Unu ekleyin.\n - Sarımsakları ve salçayı da ilave ettikten sonra tuz ve karabiberi ekleyin.\n - Etleri servis tabağına koyun.\n - Servis yaparken tabağa ilk önce beğendisini koyun.\n - Sonra beğendinin tam ortasına gelecek şekilde eti yerleştirin.\n - Hünkar beğendi servise hazır.\n\n Afiyet olsun.\n ",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 174 kcal\n - Karbonhidrat: 5.32 gr \n - Protein: 10.04 gr \n - Yağ: 12.1 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 4 adet patlıcan\n - 4 çorba kaşığı buğday unu\n - 4 çorba kaşığı tereyağ\n - 2 su bardağı süt\n - 1 tatlı kaşığı\n - 950 gr dana eti\n - 2 diş sarımsak\n - 1 çorba kaşığı domates salçası\n - 1 çay kaşığı karabiber\n",
+        "Sure": "30 dk",
+        "Kisi": "8 kişilik",
+        "Seviye": "Zor"
+    },{
+        "Tarif": "\nTarif\n - Kıyma kavrulup suyunu çekince soğanlar eklenir, soğanlar yumuşayınca ceviz ve bahratları katılarak soğumaya bırakılır.\n - İnce bulgurun üzerini geçecek kadar kaynar su ilave edilip ağzı kapalı bekletilir.\n - Islanıp yumuşayan bulgura diğer köfte malzemeleri katılarak yaklaşık 10 dakika yoğurulur.\n - Yoğurulan harçtan yumurtadan büyük parçalar koparılarak, sol avuç içine alınır.\n - Avuç içindeki köfte sürekli döndürülerek sağ işaret parmağıyla köftenin ortası oyulur.\n - Tamamen soğuyan iç harcı, kapanmasını zorlaştıracak kadar fazla, ortası boş kalacak kadarda az koymamaya dikkat edilerek doldurulur.\n - Doldurulan içli köfleler geniş bir tepsiye fazla sıkıştırılmadan bırakılır.\n - Kızartmak için köftelerin üzerini kapatacak kadar sıvıyağ kızdırılıp, köfteler çok sıkı olmayacak şekilde tencereye bırakılır.\n - Kızarma esnasında kevgirle yavaş hareketlerle köfteler hareket ettirilir.\n - Haşlama yapmak için de kaynayan su dolu tencereye atılır ve köfteler suyun yüzüne çıkmaya başlayınca bir iki dakika daha beklenip servis tabağına alınır.\n - İçli köfte servise hazır.\n\n Afiyet olsun.\n ",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 233 kcal\n - Karbonhidrat: 32.28 gr \n - Protein: 9.87 gr \n - Yağ: 6.83 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 2.5 su bardağı bulgur\n - 1 adet yumurta\n - 5 adet kuru soğan\n - 2 çorba kaşığı domates salçası\n - 4 çorba kaşığı buğday unu\n - 300 gr dana kıyma\n - 1 çay kaşığı karabiber\n - 1 tatlı kaşığı tuz\n - 1 fincan ceviz\n",
+        "Sure": "20 dk",
+        "Kisi": "10 kişilik",
+        "Seviye": "Zor"
+    },{
+        "Tarif": "\nTarif\n - Başlangıç olarak ıspanakları temizleyelim.\n - Diğer taraftan soğanı doğrayıp sıvı yağda pembeleşene dek kavuralım.\n - Salçayı ilave edelim.\n - Ardından ıspanakları da ekleyelim ve ıspanaklar eriyinceye kadar kavuralım.\n - Yarım çay bardağı yıkanmış pirinci, tuz ve baharatları da ilave edelim.\n - 1 su bardağı kaynar suyu da ekleyerek tencerenin kapağını kapatalım, kısık ateşte pirinçler yumuşayana dek pişirelim.\n - Yanında yoğurtla servis edelim.\n\n Afiyet olsun.\n ",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 19 kcal\n - Karbonhidrat: 0.48 gr \n - Protein: 2.81 gr \n - Yağ: 0.34 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 1 kg ıspanak\n - 1 adet kuru soğan\n - Yarım çay bardağı pirinç\n - 1 yemek kaşığı sıvı yağ\n - 1 yemek kaşığı domates salçası\n - 1 çay kaşığı karabiber\n - 1 tatlı kaşığı tuz\n - 1 çay kaşığı pul biber\n",
+        "Sure": "20 dk",
+        "Kisi": "4 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Kıymayı, yumurtayı, ekmek içini, tuzu, karabiberi ve rendelenmiş soğanı bir kaba koy ve karıştırarak yoğur.\n - Köfte hamurundan 24 adet uzun köfteler hazırla.\n - Diğer tarafta, sığ bir tencereye yağı ve salçayı koyup pişirin.\n - Üzerine suyu koy.\n - Su kaynayınca, köfteleri, diz.\n - Köftelerin üzerine yuvarlak kesilmiş domatesleri ve iki-üç parçaya kesilmiş biberleri yerleştir.\n - Tencerenin kapağını kapat.\n - Kısık ateşte pişir.\n - Köfteler pişince tabaklara dağıt.\n - İzmir köfte servise hazır.\n\n Afiyet olsun.\n ",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 98 kcal\n - Karbonhidrat: 3.22 gr \n - Protein: 6.93 gr \n - Yağ: 6.31 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 500 gr dana kıyma\n - 3 dilim bayat ekmek içi\n - 1 adet kuru soğan\n - 1 adet yumurta\n - 3 adet domates\n - 3 adet yeşil sivri biber\n - 2 çorba kaşığı bitkisel sıvı yağ\n - 1 çorba kaşığı salça\n - 2 su bardağı su\n - 1 bıçak ucu tuz\n - 0.5 tatlı kaşığı karabiber\n",
+        "Sure": "20 dk",
+        "Kisi": "8 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Patlıcanları yıkayıp,alacalı soyun.\n - Teflon tavaya 2 yemek kaşığı yağ ilave edin ve patlıcanları arkalı önlü pişirin.\n - Diğer tarafta, soğanı yemeklik doğrayın, tencereye koyun.\n - İnce doğradığınız biberleri, 1 yemek kaşığı yağı, tuzu ve doğradığınız sarımsakları tencereye koyarak ocağın altını açın.\n - Kıymayı ilave edin ve kıymanın rengi dönene kadar karıştırarak pişirin.\n - Kabuğu soyulmuş, kuşbaşı doğranmış 3 adet domatesi de tencereye koyun ve pişirerek karnıyarığın içini hazırlayın.\n - Teflon tavada pişirdiğiniz patlıcanları bir fırın kabına yerleştirin.\n - Patlıcanları bir çatal yardımıyla uzunlamasına açın, kaşıkla hazırladığınız içi doldurun.\n - Kalan 1 adet domatesi yuvarlak dilimler halinde keserek patlıcanların üzerine yerleştirin.\n - 1/2 yemek kaşığı salça ile hazırladığınız salçalı suyu da patlıcanların üzerine dökerek karnıyarığı 25-30 dakika kadar fırında pişirin.\n - Sıcak olarak servis yapın.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 55 kcal\n - Karbonhidrat: 2.53 gr \n - Protein: 3.22 gr \n - Yağ: 3.54 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 6 adet patlıcan\n - 250 gr dana kıyma\n - 1 adet kuru soğan\n - 4 adet domates\n - 4 adet çarliston biber\n - 7 diş sarımsak\n - 3 çorba kaşığı bitkisel sıvı yağ çeşidi\n - 0.5 çorba kaşığı salça\n - 1 bıçak ucu tuz\n - 1 su bardağı su\n",
+        "Sure": "25 dk",
+        "Kisi": "4 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Kırmızı biberlerin iç kısımlarını temizleyip ve ince ince kıyın.\n - Kıymayı, birberleri ve tuzu karıştırıp iyice yoğurun.\n - Islatılmış elle yuvarlak porsiyonlara ayırın.\n - Yassı şişlere bu kıyma harcını takıp ve şişleri ızgarada pişirin.\n - Adana kebap servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 239 kcal\n - Karbonhidrat: 1.06 gr \n - Protein: 13.9 gr \n - Yağ: 19.43 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 500 gr kuzu kıyması\n - 2 adet kırmızı biber\n - 1 tatlı kaşığı tuz\n",
+        "Sure": "20 dk",
+        "Kisi": "4 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - 1 su bardağı sıcak suyu ve salçaları karıştırın.\n - İnce bulguru, salçalı sıcak suyla ıslatın ve üzerini geçinceye kadar su ilave edin.\n - Demlenmesi için kenara alın.\n - Demlenen bulgura zeytinyağı, limon suyu, nar ekşisi, ezilmiş sarımsakları ve kuru baharatları ekleyin, tahta bir kaşıkla tüm malzemeleri yedirerek, iyice karıştırın.\n - En sonunda kıyılmış yeşillikleri ve çekirdekleri çıkartılmış domatesleri ekleyin karıştırın.\n - Kısır servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 162 kcal\n - Karbonhidrat: 28.81 gr \n - Protein: 4.18 gr \n - Yağ: 3.41 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 2 adet domates\n - 1 demet maydanoz\n - 10 dal nane\n - 10 sap yeşil soğan\n - 0.5 çay kaşığı sumak\n - 1 bıçak ucu pul biber\n - 0.5 çay kaşığı kimyon\n - 1 çay kaşığı karabiber\n - 1 tatlı kaşığı tuz\n - 2 çorba kaşığı nar ekşisi\n - 1 adet sıkılmış limon suyu\n - 5 çorba kaşığı zeytinyağ\n - 2 porsiyon sarımsak\n - 1 çorba kaşığı acı biber salçası\n - 1 çorba kaşığı domates salçası\n - 1 su bardağı su\n - 2 su bardağı ince bulgur\n",
+        "Sure": "20 dk",
+        "Kisi": "10 kişilik",
+        "Seviye": "Kolay"
+    },{
+        "Tarif": "\nTarif\n - Akşamdan suda beklettiğin kuru fasulyelerin üzerine 4-5 parmak geçecek kadar sıcak su koy ve yüksek derecede ki ocakta kaynat.\n - Daha sonra kısık ateşte kendi suyunda fasulyeler yumuşayana kadar pişir.\n - Fasulyeler pişerken ayrı bir geniş tencereye 4 adet kuru soğanı yemeklik olarak doğra ve koy.\n - Zeytinyağını da ekle ve soğanları kavur.\n - Etleri küp küp doğra ve yıkayıp tencereye ekleyip onları da kavur.\n - Etler bıraktıkları suyu çekene kadar kavurmaya devam et.\n - Daha sonra tencereye salça çeşitlerini ve acı biberleri minik minik doğrayıp ilave et.\n - Tencereye etlerin üzerine çıkacak kadar kaynar su ilave et.\n - Etler yumuşayana kadar pişir.\n - Kuru fasulyeler de pişince etin olduğu tencereye fasulyeleri ekleyip iyice karıştır.\n - Son olarak tuzu da serpip kaynatmaya devam et.\n - Bir kaç dakika kaynadıktan sonra altını kapat.\n - Kuru fasulye servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 117 kcal\n - Karbonhidrat: 8.35 gr \n - Protein: 8.27 gr \n - Yağ: 3.74 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 6 su bardağı su\n - 4 su bardağı kuru fasulye\n - 400 gr dana eti\n - 4 adet kuru soğan\n - 2 çorba kaşığı zeytinyağı\n - 1 tatlı kaşığı domates salçası\n - 1 tatlı kaşığı acı biber salçası\n - 4 adet sivri acı biber\n - 1 tatlı kaşığı tuz\n",
+        "Sure": "40 dk",
+        "Kisi": "8 kişilik",
+        "Seviye": "Zor"
+    },{
+        "Tarif": "\nTarif\n - İç harç için, öncelikle soğan ve sarımsağı birlikte mutfak robotundan geçirin.\n - Bir kapta kıyma, robottan geçirdiğiniz soğan ve sarımsak, domates, biber, salçalar, tuz, karabiber, pul biber ve kıyılmış maydanozu karıştırın.\n - Hazırladığınız harcınızı dolaba kaldırın.\n - Hamuru için, unu geniş bir kaba eleyin.\n - Bir parça su yardımı ile yaş mayayı sulandırın.\n - En son tuzu ilave edecek şekilde hamuru yoğurun. Bezeler halinde hafif unlanmış tezgahta üzerini nemli bezle mayalandırmaya bırakın.\n - Fırını 170 derece fansız programa ayarlayın.\n - Mayalanan bezeleri oklava veya merdane yardımıyla inceltin.\n - İç harcı incelttiğiniz hamurlara paylaştırın ve fırında dilediğiniz ölçüde kızarana kadar pişirin.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 148 kcal\n - Karbonhidrat: 21.51 gr \n - Protein: 6.5 gr \n - Yağ: 3.7 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 500 gr un\n - 1/2 paket yaş maya\n - 500 gr dana kıyma\n - 1 adet soğan\n - 1 diş sarımsak\n - 1 adet domates\n - 1 adet yeşil biber\n - 1 yemek kaşığı biber salçası\n - 1 yemek kaşığı domates salçası\n - 1 çay kaşığı tuz\n - 1 çay kaşığı karabiber\n - 1 çay kaşığı pul biber\n - 1/2 demet maydanoz\n",
+        "Sure": "30 dk",
+        "Kisi": "7 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Hamur için olan tüm malzemeleri bir kapta yoğurun. Yaptığınız hamuru 4-5 dakika dinlendirin.\n - Hamuru 2 bezeye bölün. Hamuru ince açın ve küçük kareler olacak şekilde kesin.\n - İç harç için kıyma, rende soğan, kuru reyhan, tuz ve karabiberi yoğurun.\n - Kestiğiniz hamurların içerisine iç harcı doldurup mantı şeklinde kapatın.\n - Derin bir tencereye 10 su bardağı suyu ve tuzu koyup, kaynatın. Hazırladığınız mantıları kaynayan suya atıp 7 – 8 dakika haşlayın.\n - Yoğurt sos için; sarımsağı ezin ve yoğurtla karıştırın.\n - Domates sos için; bir sos tenceresinde salça, tereyağı ve zeytinyağını karıştırın. Kuru reyhan ekleyip, kenara alın.\n - Mantıları servis tabağına alın üzerine yoğurt sos, en üstüne de domates sos koyarak servis edin.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 170 kcal\n - Karbonhidrat: 29.71 gr \n - Protein: 4.12 gr \n - Yağ: 3.5 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 4 su bardağı un\n - 1 su bardağı su\n - 1 adet yumurta\n - 1 tutam tuz\n - 300 gr kıyma\n - 1 adet rendelenmiş kuru soğan\n - 2 yemek kaşığı domates salçası\n - 2 yemek kaşığı tereyağı\n - 1 yemek kaşığı zeytinyağı\n - Yoğurt\n - 2 diş sarımsak\n",
+        "Sure": "30 dk",
+        "Kisi": "4 kişilik",
+        "Seviye": "Zor"
+    },{
+        "Tarif": "\nTarif\n - Yumurtaları derince bir kaba al ve un ilave ederek pürüzsüz kıvam alana kadar çırp.\n - Maydanozu ve dereotunu ince ince kıy, kabakları rendele, yeşil soğanları minik minik doğra.\n - Baharatları, rendelenip suyu sıkılmış kabakları, küçük doğranmış yeşil soğanları, maydanoz ve dereotu da kaba ekle ve karıştır.\n - Teflon tavaya yağı al ve ısıt.\n - Kabak karışımından bir kaşık kadar dök ve mücverleri pişir.\n - Mücverlerin her iki yüzü de kızardıktan sonra havlu kağıt serilmiş tabağa al.\n - Mücver servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 83 kcal\n - Karbonhidrat: 5.71 gr \n - Protein: 3.67 gr \n - Yağ: 5.04 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 0.5 çay bardağı sıvı yağ\n - 1 çay kaşığı pul biber\n - 1 çay kaşığı karabiber\n - 1 çay kaşığı tuz\n - 1 çorba kaşığı dere otu\n - 1 demet maydanoz\n - 3 sap yeşil soğan\n - 1 çay bardağı buğday unu\n - 5 adet kabak\n - 3 adet yumurta\n",
+        "Sure": "20 dk",
+        "Kisi": "6 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Öncelikle pirinçleri yıka.\n - Pirinçleri sıcak ve tuzlu suda 15 dakika beklet.\n - Tencereye tereyağını koyup erit.\n - Yağ eriyince pirinçleri ekle ve sürekli karıştırarak kavur.\n - Pirinçler birbirinden ayrılana kadar kavurmaya devam et.\n - Sonrasında su ve tuz ekle.\n - Kısık ateşte ağzı kapalı şekilde pişir.\n - Pirinçler suyunu çekince birkaç kez karıştırıp ağzını kapat.\n - Bir kaç dakika kadar daha pişirip altını kapatıp dinlendir.\n - Pirinç Pilavı servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 167 kcal\n - Karbonhidrat: 27.34 gr \n - Protein: 2.44 gr \n - Yağ: 5.09 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 2 su bardağı beyaz pirinç\n - 4 çorba kaşığı tereyağı\n - 3 su bardağı su\n - 1 tatlı kaşığı tuz\n",
+        "Sure": "20 dk",
+        "Kisi": "6 kişilik",
+        "Seviye": "Kolay"
+    },{
+        "Tarif": "\nTarif\n - Un, tuz, şeker ve mayayı bir kabın içine dök ve üzerine yavaş yavaş su ilave et.\n - Kulak memesi kıvamına gelene kadar (yaklaşık 10-15 dakika) yoğur ve sonrasında yarım saat dinlenmeye bırak.\n - Daha sonra hamurdan parçalar kopararak şekil verdiğin simit halkalarını, bire bir ölçüde kaynattığın pekmezli suya batır.\n - Suları süzüldükten sonra susama bulayarak tepsiye diz ve 220 derecede 25-30 dakika pişir.\n - Ev yapımı simit servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 255 kcal\n - Karbonhidrat: 48.93 gr \n - Protein: 2.34 gr \n - Yağ: 5.15 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 1 kilogram un karışımı\n - 1 tatlı kaşığı şeker\n - 2 tatlı kaşığı yaş maya\n - 3 tatlı kaşığı tuz\n - 3 su bardağı su\n - 1 su bardağı üzüm pekmezi\n - 4 çay bardağı susam\n",
+        "Sure": "30 dk",
+        "Kisi": "20 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - Eti kuşbaşı doğra.\n - Sonra etleri bir tencereye al.\n - Orta hararetli ısıda suyunu çekene kadar pişir.\n - Sıvı yağı ve yemeklik doğradığın soğanları ilave ederek kavur.\n - Salçayı ve toz biberi de ekleyerek karıştır.\n - Ayıkladığın fasulyeleri ve domatesi de tencereye ilave et.\n - Üzerini biraz geçecek şekilde su ekle.\n - Pişmeye yakın tuzunu da ilave ederek pişir.\n - Etli taze fasulye servise hazır.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 88 kcal\n - Karbonhidrat: 2.39 gr \n - Protein: 6.64 gr \n - Yağ: 5.7 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 1 çay kaşığı tuz\n - 0.5 çay bardağı sıvı yağ\n - 1 tatlı kaşığı kırmızı toz biber\n - 1 çorba kaşığı domates salçası\n - 1 adet domates\n - 1 adet kuru soğan\n - 300 gr dana eti\n - 500 gr taze fasulye\n",
+        "Sure": "40 dk",
+        "Kisi": "6 kişilik",
+        "Seviye": "Orta"
+    },{
+        "Tarif": "\nTarif\n - İçini hazırlamak için, soğanları ince doğrayın veya rendenin kalın tarafı ile rendeleyin.\n - Yağı ve soğanları tencereye koyun.\n - Fıstıkları atın, biraz kavurun.\n - Yıkanmış ve sapları ayıklanmış kuş üzümlerini ilave edin.\n - 1/2 su bardağı suyu ve ayıklayıp yıkadığınız pirinçleri tuzu, karabiberi ve tarçını koyarak kısık ateşte, pirinçler suyu çekene kadar pişirin.\n - Tencerenin kapağını kapatarak, biraz demlendirin.\n - Diğer tarafta asma yapraklarını az suda haşlayın ve bir süzgeçte süzdürün.\n - İç ılınınca, hazırladığınız yapraklara 1 tatlı kaşığı kadar iç koyarak sarın ve tencereye dizin.\n - Kalan 1/2 bardak suyu ilave edip, pirinçler pişene kadar kısık ateşte pişirin.\n - Sarmaları servis tabağına alın.\n - Soğuk olarak servis yapın.\n\n Afiyet olsun.\n",
+        "Kalori": "Kalori ve Besin Değerleri (100 gr)\n - Kalori: 96 kcal\n - Karbonhidrat: 17.82 gr \n - Protein: 3.37 gr \n - Yağ: 1.32 gr\n",
+        "Malzemeler": "\nMalzemeler \n - 1 bıçak ucu tuz\n - 2 su bardağı su\n - 0.5 tatlı kaşığı tarçın\n - 1 çay kaşığı karabiber\n - 2 çorba kaşığı kuş üzümü\n - 0.5 çorba kaşığı zeytinyağı\n - 2 adet kuru soğan\n - 1 su bardağı beyaz pirinç\n - 250 gr asma yaprağı\n - 10 gr çam/dolmalık fıstığı\n",
+        "Sure": "30 dk",
+        "Kisi": "8 kişilik",
+        "Seviye": "Orta"
+    }
+    ]
+}
